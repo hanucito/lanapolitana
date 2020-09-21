@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   useEffect(() => {
-    window.location.href = 'https://www.facebook.com/napocorrientes';
+    window.location.href = 'https://www.facebook.com/Lanapolitana3';
   }, [])
   return (
     <div className="App">
